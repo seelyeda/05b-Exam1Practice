@@ -112,7 +112,7 @@ def problem2a(circle, rectangle, window):
     #    TIME ESTIMATE:   10 to 15 minutes.
     # -------------------------------------------------------------------------
     for
-        
+
 
 
 def run_test_problem2b():
