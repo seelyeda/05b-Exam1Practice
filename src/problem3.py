@@ -146,7 +146,8 @@ def problem3a(window, point, n):
     #    DIFFICULTY:      7 or 8
     #    TIME ESTIMATE:   20 to 35 minutes.
     # -------------------------------------------------------------------------
-
+    window = rg.window
+    window.attach_to()
 
 def run_test_problem3b():
     """ Tests the   problem3b   function. """
